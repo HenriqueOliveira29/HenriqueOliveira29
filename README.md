@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Henrique Oliveira</h1>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=henriqueoliveira29&show_icons=true&locale=en&theme=dracula" alt="henriqueoliveira29" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=henriqueoliveira29&show_icons=true&locale=en&layout=compact&theme=dracula" alt="henriqueoliveira29" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=henriqueoliveira29&show_icons=true&locale=en&theme=dracula" alt="henriqueoliveira29" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=henriqueoliveira29&show_icons=true&locale=en&layout=compact&theme=dracula" alt="henriqueoliveira29" />
 </div>
 <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=henriqueoliveira29&theme=dracula" alt="henriqueoliveira29" />
