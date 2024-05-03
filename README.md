@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <div> 
-  <a href="mailto:henrique.hlo19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:henrique.hlo19@gmail.com"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" target="_blank"></a>
   <a href="https://www.linkedin.com/in/henrique-oliveira-9a4263222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
