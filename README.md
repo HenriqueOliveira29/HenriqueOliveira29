@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Henrique Oliveira</h1>
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/henrique-oliveira-9a4263222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="henrique oliveira" height="30" width="40" /></a>
-<a href="mailto: henrique.hlo19@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="henrique oliveira" height="30" width="40" /></a>
-</p>
+<div> 
+  <a href="mailto:henrique.hlo19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/henrique-oliveira-9a4263222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=henriqueoliveira29&show_icons=true&locale=en&layout=compact&theme=dracula" alt="henriqueoliveira29" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=henriqueoliveira29&show_icons=true&locale=en&theme=dracula" alt="henriqueoliveira29" /></p>
