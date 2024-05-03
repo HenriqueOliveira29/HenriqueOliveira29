@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Henrique Oliveira</h1>
 
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=henriqueoliveira29&show_icons=true&locale=en&theme=dracula" alt="henriqueoliveira29" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=henriqueoliveira29&show_icons=true&locale=en&layout=compact&theme=dracula" alt="henriqueoliveira29" /></p>
