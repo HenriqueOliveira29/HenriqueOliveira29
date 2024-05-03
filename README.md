@@ -2,8 +2,9 @@
 
 <div width="100vw">
   <a href="https://github.com/HenriqueOliveira29">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueOliveira29&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueOliveira29&size_weight=0.5&count_weight=0.5&theme=dracula&langs_count=5"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueOliveira29&theme=dracula&show_icons=true&hide_border=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HenriqueOliveira29&theme=dracula&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueOliveira29&theme=dracula&show_icons=true&hide_border=false&layout=compact"/>
 </div>
 
 <div style="display: inline_block"><br>
