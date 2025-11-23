@@ -20,11 +20,13 @@
 <p><strong>My Vision:</strong> A social media platform specifically designed for readers, with an emphasis on community engagement and discussion rather than just book discovery.</p>
 
 <h3>Project Goals:</h3>
+<p>This project is my opportunity to master the complete software development lifecycle:</p>
 <ol>
-    <li><strong>Build a Robust Backend</strong> - Implement best practices in the market to create a secure, high-performance, and maintainable API using C# and .NET</li>
-    <li><strong>Design an Intuitive UI</strong> - Create a clean, accessible, and user-friendly interface that encourages community interaction</li>
-    <li><strong>Deploy to Raspberry Pi</strong> - Establish a complete deployment pipeline to host the application on my Raspberry Pi server</li>
-    <li><strong>Master DevOps</strong> - Deepen my knowledge of modern technologies and practices including VPNs, firewalls, CI/CD pipelines, and server management to safely expose the application to the world</li>
+    <li><strong>Build a Robust Backend</strong> - Implement industry best practices to create a secure, high-performance, and maintainable API</li>
+    <li><strong>Design an Intuitive UI</strong> - Craft a clean, accessible, and user-friendly interface that encourages community interaction</li>
+    <li><strong>Set Up CI/CD Pipeline</strong> - Establish automated testing and deployment workflows to streamline the release process</li>
+    <li><strong>Deploy to Production</strong> - Host the application on my Raspberry Pi server and configure it for real-world usage</li>
+    <li><strong>Master DevOps & Infrastructure</strong> - Learn and implement modern technologies including VPNs, firewalls, server management, and security best practices to safely expose the application to the world</li>
     <li><strong>Have Fun!</strong> - Most importantly, enjoy the learning journey and the satisfaction of building something meaningful 🚀</li>
 </ol>
 <hr>
