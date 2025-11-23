@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Henrique Oliveira</h1>
 
-<p>A passionate developer from Portugal with a love for building meaningful software solutions. I enjoy working across different tech stacks and collaborating with the community to create applications that make a difference.</p>
+<p>A passionate developer with a love for building meaningful software solutions. I enjoy working across different tech stacks and collaborating with the community to create applications that make a difference.</p>
 
 <hr>
 
